@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class App {
+public class IsAnAnagram {
     public static void main(String[] args) throws Exception {
         System.out.println("Is an anagram? Exercise:");
 
