@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class IsAnAnagram {
     public static void main(String[] args) throws Exception {
-        System.out.println("Is an anagram? Exercise:");
+        System.out.println("Is an anagram? Exercise: \n");
 
         // To get the worlds we can use the Scanner class
         Scanner scannerObj = new Scanner(System.in);
