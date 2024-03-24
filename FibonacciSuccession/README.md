@@ -32,3 +32,7 @@ public class FibonacciSuccession {
     }
 }
 ```
+
+## Reflexión
+
+Al principio resulta casi automático pensar que tan solo serán necesarias dos variables, y es probable que exista una solución que funcione correctamente con tan solo dos. Sin embargo, una vez se propone una tercera variable auxiliar para almacenar los resultados, ayuda mucho a la lógica del código.
