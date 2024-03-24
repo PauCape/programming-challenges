@@ -53,4 +53,5 @@ public class App {
 }
 ```
 ## Reflexión
+
 Es problable que mi solución tenga demasiado pasos, pero creo que est bastante elegante y clara. Con este ejercicio es interesante entender el comporamiento de las palabras mediante los "String" y lo que es más interesante, la transformación de "String" a un "Array" de tipo char, utilizando el método correcto "Arrays.toString" y no "toString" direcamente.

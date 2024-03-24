@@ -1,6 +1,6 @@
 public class FizzBuzz {
     public static void main(String[] args) throws Exception {
-        System.out.println("FizzBuzz Exercise:");
+        System.out.println("FizzBuzz Exercise: \n");
 
         // Its important to use the equal symbol to take all 100 numbers
         for (int i = 1; i <= 100; i++) {
